@@ -1,0 +1,9 @@
+{
+  "name": "MyPromise",
+  "version": "1.0.0",
+  "description": "Promise A+",
+  "main": "index.js",
+  "repository": "https://github.com/dingyongcheng2016/MyPromise.git",
+  "author": "dingyongcheng <dingyongcheng@967111.com>",
+  "license": "MIT"
+}
